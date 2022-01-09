@@ -4,3 +4,4 @@ This project reproduces a classic game Flappy Bird. I wrote this project to lear
 
 ## Result
 
+![Demo](https://github.com/Hebella/FlappyBird/blob/master/FlappyBird.gif)
